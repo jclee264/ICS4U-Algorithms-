@@ -16,7 +16,7 @@
 
   ### Pyramix Duo Information
 
-  #### Recorded Pyramix duo times (sec):
+  ##### Recorded Pyramix duo times (sec):
   | Date | ao5 | ao12 | Best time | DNF |
   |----- | --- | ---- | --------- | --- |
   Feb 13 | 4.84 | 5.61 | 1.99 | none |
