@@ -16,9 +16,9 @@
   Description: Recording times for the pyramix duo
   
   #### Recorded Pyramix duo times:
-  | ao5 | ao12 | ao25 | DNF |
-  |---- | ---- | ---- | --- |
-  4.84 sec | 5.61 sec | bla bla | none |
+  | ao5 | ao12 | Best time | DNF |
+  |---- | ---- | --------- | --- |
+  4.84 sec | 5.61 sec | 1.99 sec | none |
   
   ###### Best time: 1.99 seconds  
  
