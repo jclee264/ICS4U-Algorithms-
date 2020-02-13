@@ -21,7 +21,5 @@
    * ao25: bla bla bla
    * DNFs: zero!
   ###### Best time: 1.99 seconds  
-  
-  >hello
-  >hello my name is
+ 
 </body>
