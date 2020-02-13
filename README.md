@@ -11,6 +11,8 @@
   ### Learning Links:
    * Pyramix Duo
      * [Beginner Method](https://www.youtube.com/watch?v=xB9OFNyi-Uk&feature=emb_title)
+     * [Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
+     * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
    
   ### February 12, 2020
  
