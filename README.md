@@ -6,9 +6,9 @@
   </h3>
   Description: First day working on the repo. Haven't started recording times yet, but will start tomorrow!
   
-  <h6>
+  <h5>
     Base Project information:
-  </h6>
+  </h5>
   
   <li> Type of Cube: Pyramix duo</li>
   <li> I can solve the pyramix duo pretty quickly, as of right now.</li>
