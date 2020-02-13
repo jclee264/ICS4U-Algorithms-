@@ -1,4 +1,4 @@
-# ICS4U Algorithms
+**ICS4U Algorithms**
 
 <body>
   <h3> 
