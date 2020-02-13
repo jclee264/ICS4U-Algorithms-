@@ -15,11 +15,11 @@
      * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
 
   ### Pyramix Duo Information
-  February 13, 2020
+
   #### Recorded Pyramix duo times (sec):
-  | ao5 | ao12 | Best time | DNF |
-  |---- | ---- | --------- | --- |
-  4.84 | 5.61 | 1.99 | none |
+  | Date | ao5 | ao12 | Best time | DNF |
+  |----- | --- | ---- | --------- | --- |
+  Feb 13 | 4.84 | 5.61 | 1.99 | none |
   
  
 </body>
