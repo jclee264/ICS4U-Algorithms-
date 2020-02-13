@@ -13,15 +13,9 @@
      * [Beginner Method](https://www.youtube.com/watch?v=xB9OFNyi-Uk&feature=emb_title)
      * [Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
      * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
-   
-  ### February 12, 2020
- 
-  Description: First day working on the repo. Haven't started recording times yet, but will start tomorrow!
 
-  ### February 13, 2020
-    
-  Description: Recording times for the pyramix duo
-  
+  ### Pyramix Duo Information
+  February 13, 2020
   #### Recorded Pyramix duo times (sec):
   | ao5 | ao12 | Best time | DNF |
   |---- | ---- | --------- | --- |
