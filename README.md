@@ -15,5 +15,10 @@
     
   Description: Recording times for the pyramix duo
   
+  #### Base Project information:
+   * ao5: 4.84 seconds
+   * ao12: 5.61 seconds
+   * ao25:
+  Note: No DNFs today!
     
 </body>
