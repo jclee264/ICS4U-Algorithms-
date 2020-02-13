@@ -1,6 +1,8 @@
-**ICS4U Algorithms**
-
 <body>
+  <h1>
+    ICS4U Algorithms
+  </h1>
+  
   <h3> 
     February 12, 2020
   </h3>
