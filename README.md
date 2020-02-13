@@ -19,8 +19,6 @@
    * ao5: 4.84 seconds
    * ao12: 5.61 seconds
    * ao25: bla bla bla
-  ###### Best time: 1.99 seconds
-  Note: No DNFs today!
-
-    
+   * DNFs: zero!
+  ###### Best time: 1.99 seconds  
 </body>
