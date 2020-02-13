@@ -15,10 +15,12 @@
     
   Description: Recording times for the pyramix duo
   
-  #### Base Project information:
+  #### Recorded Pyramix duo times:
    * ao5: 4.84 seconds
    * ao12: 5.61 seconds
-   * ao25:
+   * ao25: bla bla bla
+  ###### Best time: 1.99 seconds
   Note: No DNFs today!
+
     
 </body>
