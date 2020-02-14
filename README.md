@@ -13,6 +13,8 @@
      * [Beginner Method](https://www.youtube.com/watch?v=xB9OFNyi-Uk&feature=emb_title)
      * [Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
      * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
+   * Pyramix
+     *
 
   ## Pyramix Duo Information
 
@@ -20,6 +22,7 @@
   | Date | ao5 | ao12 | Best time | DNF |
   |----- | --- | ---- | --------- | --- |
   Feb 13 | 4.84 | 5.61 | 1.99 | none |
+  Feb 14 |
   
  
 </body>
