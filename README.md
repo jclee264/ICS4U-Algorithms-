@@ -14,7 +14,7 @@
      * [Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
      * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
    * Pyramix
-     * [Beginner Method](https://www.youtube.com/watch?v=2H0FUvaaUsI&feature=emb_title)
+     
 
   ## Pyramix Duo Information
 
