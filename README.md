@@ -14,6 +14,8 @@
      * [Intermediate Method](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
      * [Advanced Method/4 step Method](https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title)
    * Pyramix
+     * [Pyraminx Solver Calculator](https://rubiks-cube-solver.com/pyraminx/)
+     * [Beginner Method 1](https://www.youtube.com/watch?v=YSvbXmU4aHM)
      
 
   ## Pyramix Duo Information
@@ -23,6 +25,7 @@
   |----- | --- | ---- | --------- | --- |
   Feb 13 | 4.84 | 5.61 | 1.99 | none |
   Feb 14 | 4.98 | 5.12 | 0.99 | none |
+  Feb 19 |      |      |      | 1 |
   
  
 </body>
