@@ -16,8 +16,9 @@
    * Pyraminx
      * [Pyraminx Solver Calculator](https://rubiks-cube-solver.com/pyraminx/)
      * [Beginner Method 1](https://www.youtube.com/watch?v=YSvbXmU4aHM)
+   * 2x2
+     * [Beginner Video](https://www.youtube.com/watch?v=rJlh5p2wAKA)
      
-
   ## Pyraminx Duo Information
 
   #### Recorded Pyraminx duo times (sec):
@@ -36,7 +37,7 @@
   Feb 19 | 4.41.80 |4.14.28|3.78.61| 5 |
   Feb 24 | 
   
-   ## 2x2 Information
+  ## 2x2 Information
 
   #### Recorded 2x2 times (sec):
   | Date | ao5 | ao12 | Best time | DNF |
