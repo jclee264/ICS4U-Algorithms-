@@ -19,6 +19,7 @@
    * 2x2
      * [Beginner Video](https://www.youtube.com/watch?v=rJlh5p2wAKA)
      * [Second Beginner Video](https://www.youtube.com/watch?v=bCn8TajrPqc)
+     * [Intermediate method](https://www.youtube.com/watch?v=hu54JZOjEQA)
      
   ## Pyraminx Duo Information
 
@@ -49,7 +50,8 @@
   |----- | --- | ---- | --------- | --- |
   Feb 26 | 40.78 | 42.53 | 39.76 | 4 |
   Feb 28 | 37.62 | 36.08 | 9.21 | 3 |
-  Mar 2  | 38.52 | 39.03 | 28.84 | 2 |
+  Mar 2 | 38.52 | 39.03 | 28.84 | 2 |
+  Mar 3 | 
   
   ## Project Conclusion:
    * Type of cubes I can now solve: Pyraminx duo, pyraminx and 2x2
