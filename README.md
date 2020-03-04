@@ -51,7 +51,8 @@
   Feb 26 | 40.78 | 42.53 | 39.76 | 4 |
   Feb 28 | 37.62 | 36.08 | 9.21 | 3 |
   Mar 2 | 38.52 | 39.03 | 28.84 | 2 |
-  Mar 3 | 
+  Mar 3 | 29.08 | 34.05 | 27.65 | 2 |
+  Mar 4 | 21.97 | 29.81 | 11.12 | 1 |
   
   ## Project Conclusion:
    * Type of cubes I can now solve: Pyraminx duo, pyraminx and 2x2
