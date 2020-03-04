@@ -19,7 +19,7 @@
    * 2x2
      * [Beginner Video](https://www.youtube.com/watch?v=rJlh5p2wAKA)
      * [Second Beginner Video](https://www.youtube.com/watch?v=bCn8TajrPqc)
-     * [Intermediate method](https://www.youtube.com/watch?v=hu54JZOjEQA)
+     * [Ortega method](https://www.youtube.com/watch?v=hu54JZOjEQA)
      
   ## Pyraminx Duo Information
 
