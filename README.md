@@ -54,6 +54,12 @@
   Mar 3 | 29.08 | 34.05 | 27.65 | 2 |
   Mar 4 | 21.97 | 29.81 | 11.12 | 1 |
   
+  ## Validated Solves:
+   * Pyraminx Duo (mean of three): 11.22 secs (no DNF)
+     * Viewed by Sofia
+   * 2x2 (mean of three): 27.48 secs (no DNF)
+     * Viewed by Sofia
+     
   ## Project Conclusion:
    * Type of cubes I can now solve: Pyraminx duo, pyraminx and 2x2
    * I found the pyraminx the hardest to solve, the 2x2 made a lot more sense to me personally than the pyraminx
